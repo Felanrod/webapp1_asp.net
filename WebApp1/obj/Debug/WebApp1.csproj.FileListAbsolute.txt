@@ -1,0 +1,15 @@
+C:\Users\GCStudent\Desktop\COMP2007\WebApp1\WebApp1\bin\WebApp1.dll
+C:\Users\GCStudent\Desktop\COMP2007\WebApp1\WebApp1\bin\WebApp1.pdb
+C:\Users\GCStudent\Desktop\COMP2007\WebApp1\WebApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GCStudent\Desktop\COMP2007\WebApp1\WebApp1\obj\Debug\WebApp1.dll
+C:\Users\GCStudent\Desktop\COMP2007\WebApp1\WebApp1\obj\Debug\WebApp1.pdb
+G:\Visual Studio\COMP2007\WebApp1\WebApp1\bin\WebApp1.dll
+G:\Visual Studio\COMP2007\WebApp1\WebApp1\bin\WebApp1.pdb
+G:\Visual Studio\COMP2007\WebApp1\WebApp1\obj\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio\COMP2007\WebApp1\WebApp1\obj\Debug\WebApp1.dll
+G:\Visual Studio\COMP2007\WebApp1\WebApp1\obj\Debug\WebApp1.pdb
+E:\Georgian College\Semester 4\COMP 2007\WebApp1\WebApp1\bin\WebApp1.dll
+E:\Georgian College\Semester 4\COMP 2007\WebApp1\WebApp1\bin\WebApp1.pdb
+E:\Georgian College\Semester 4\COMP 2007\WebApp1\WebApp1\obj\Debug\ResolveAssemblyReference.cache
+E:\Georgian College\Semester 4\COMP 2007\WebApp1\WebApp1\obj\Debug\WebApp1.dll
+E:\Georgian College\Semester 4\COMP 2007\WebApp1\WebApp1\obj\Debug\WebApp1.pdb
